@@ -1,9 +1,17 @@
-<!Doctype html><html><head><title>Home | NothingButTyler Official Site</title></head><body>
- <div class="topnav">
- <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+<!Doctype html><html><head><title>Home | NothingButTyler Official Site</title>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0009ff">
+<meta name="msapplication-TileColor" content="#00ffff">
+<meta name="theme-color" content="#0029ff">
+ <!--google adsense-->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2216478317798380"
      crossorigin="anonymous"></script>
+
+ <!--end of google adsense-->
+ <!--loader (ERROR!!)-->
 <style>
 /* Center the loader */
 #loader {
@@ -55,6 +63,7 @@
   text-align: center;
 }
 </style>
+<!--end of loader-->
 </head>
 <body onload="myFunction()" style="margin:0;">
 <!--loading setup-->
